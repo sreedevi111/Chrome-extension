@@ -1,0 +1,8 @@
+{ "manifest_version": 2,
+    "name" : "Corona21-Searcher",
+    "version": "0.1.0",
+    "permissions":["<all_urls>"],
+    "browser_action":
+    {"default_popup": "index.html"}
+  
+  }
