@@ -1,3 +1,5 @@
 # Chrome-extension
 
-Corona checker helps to know active cases of covid19. It can be filtered by country
+## Overview
+* This project uses axios to fetch api 
+*  Displays total cases, total recovered, total death.
